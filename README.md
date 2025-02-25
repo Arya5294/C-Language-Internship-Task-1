@@ -14,4 +14,4 @@
 
 **Description of Task**: I tried to make code myself and also took help of my friends who are good in C Language. Then I also check codes from other online plateform like youtube and chatgpt for how I can improve my code more.
 
-**Output Of Task**
+**Output Of Task**: ![Image](https://github.com/user-attachments/assets/3b127517-e6d9-4a31-964a-4f205689b3e2)
